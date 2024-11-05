@@ -44,6 +44,7 @@ Communication, Conflict management, Teamwork and Collaboration, Adaptability, Se
 General Management: Scrum, Agile, Kanban
 
 **Technologies**
+
 Platforms: 
 - SAP Fiori
 
@@ -66,7 +67,6 @@ Solutions:
 - Visual Studio Code
 - Azure DevOps Server
 - Web Service / API Test Automation Tools in JS
-- Microsoft Excel
 - DBeaver
 - Selenium
 - Jira
@@ -84,18 +84,16 @@ Platform:
 - Amazon Web Services
 
 **English** 
+
 B2
 
 ## WORK EXPERIENCE
-### Jan-2024 - Oct-2024 - EPAM Systems, https://www.epam.com/
+### Jan-2024 - Oct-2024 - EPAM Systems
 
-Project Roles: Tester
+**Project Roles:** Tester
+**Client:** Priceline.com
 
-Client: Priceline.com
-
-Client Description: Travel & Hospitality
-
-Responsibilities: 
+**Responsibilities:** 
 •	Requirement analysis in RTR (Finance) stream
 •	Test case and test cycle creation in Zephyr Scale
 •	Performing  Functional  Testing (SAP Fiori, SAP GUI)
@@ -110,11 +108,11 @@ Responsibilities:
 •	Team
 •	Testing team: 3 testes, 9 SAP Consultants
 
-### May-2023 - Jan-2024 - EPAM Systems, https://www.epam.com/
-Project Roles: Tester
-Client: adidas
+### May-2023 - Jan-2024 - EPAM Systems
+**Project Roles:** Tester
+**Client:** adidas
 
-Responsibilities: 
+**Responsibilities:** 
 •	Back-end testing of BW system (structure comparison and test data verification for a certain test period
 •	Front-end testing of a specific report in SAC system (comparison of reports in SAC and BW systems, structure and data verification for a certain test period, verification the availability of principal SAC functions for the specified reports (hierarchy, graphs and diagrams, filtering, notifications, export, etc.)
 •	Performed GUI testing of developed reports
@@ -124,7 +122,7 @@ Responsibilities:
 •	Team
 •	60+ Team Members including Solution Architects, BAs, SAP BW and SAP SAC Developers, QAs, Designers
 
-### Oct-2020 - Apr-2023 - EPAM Systems, https://www.epam.com/
+### Oct-2020 - Apr-2023 - EPAM Systems
 **Project Roles:** Tester
 **Client:** HAVI Inc
 
@@ -154,7 +152,7 @@ Responsibilities:
 •	1 Business Analyst - for both teams
 •	1 Project Master - for both teams
 
-### Jul-2020 - Oct-2020 - EPAM Systems, https://www.epam.com/
+### Jul-2020 - Oct-2020 - EPAM Systems
 **Project Roles:** Tester
 **Client:** OrthoBullets
 **Responsibilities:** 
