@@ -44,16 +44,44 @@ Communication, Conflict management, Teamwork and Collaboration, Adaptability, Se
 General Management: Scrum, Agile, Kanban
 
 **Technologies**
-Platforms: SAP Fiori
+Platforms: 
+- SAP Fiori
 
-Standard: Git
+Standards: 
+- Git
 
-Framework: Test Runners in JS, WebdriverIO
-Infrastructure: Citrix Cloud, Continuous Integration & Delivery tools
-Computer Language: JavaScript, SQL
-Solution: Visual Studio Code, Azure DevOps Server, Web Service / API Test Automation Tools in JS, Microsoft Excel, DBeaver, Selenium, Jira
-Tools: Test Management Tools, Tricentis Tosca, Test Automation Frameworks, Web UI Test Automation Tools in JS, BDD Frameworks in JS, Web Service / API Testing Tools, VIVIDUS
-Platform: Amazon Web Services
+Frameworks: 
+- Test Runners in JS
+- WebdriverIO
+
+Infrastructure: 
+- Citrix Cloud
+- Continuous Integration & Delivery tools
+
+Computer Languages: 
+- JavaScript
+- SQL
+
+Solutions: 
+- Visual Studio Code
+- Azure DevOps Server
+- Web Service / API Test Automation Tools in JS
+- Microsoft Excel
+- DBeaver
+- Selenium
+- Jira
+
+Tools: 
+- Test Management Tools
+- Tricentis Tosca
+- Test Automation Frameworks
+- Web UI Test Automation Tools in JS
+- BDD Frameworks in JS
+- Web Service / API Testing Tools
+- VIVIDUS
+
+Platform: 
+- Amazon Web Services
 
 **English** 
 B2
