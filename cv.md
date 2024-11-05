@@ -31,54 +31,31 @@ Software Testing Engineer with more then 4 years experience
 •	**Tricentis:** Tricentis Tosca Fundamentals − Automating web application testing (AS1), 2023
 
 ## SKILLS
-**Engineering Practices**
-DWH fundamentals, Static Code Analysis, Test strategy, Version Control Principles, Requirements Analysis, Estimation and Work 
+## Engineering Practices
+- DWH fundamentals
+- Static Code Analysis
+- Test Strategy
+- Version Control
+- Requirements Analysis
+- Estimation and Work Planning
 
-**Planning, Writing Technical Documentation**
-Test Results Analysis and Reporting, Testing in SAP, Testing in Mobile, Automated Testing in JS, Functional Testing, Test Automation Framework Architecture in JS, Testing Automation Basics, Domain/function testing, Test Design Techniques, Risk Based Testing, Test Plan Development, Regression testing, Test Automation Development in JS ecosystem, Testing Fundamentals, Component / Integration Testing, Requirements Analysis and Testing, Test Cases Development, Exploratory testing, Defect Management, Test Strategy Development, Test Estimations, GUI Testing
+## Technical Skills
+- **Testing**: Functional Testing, Automated Testing in JS, Regression Testing, Exploratory Testing
+- **Test Design**: Test Strategy Development, Test Plan Development, Test Cases Development, Risk-Based Testing
+- **Automation**: Test Automation Framework Architecture in JS, Testing Automation Basics
 
-**Leadership & Soft Skills**
-Communication, Conflict management, Teamwork and Collaboration, Adaptability, Self-Management, Problem-solving
+## Leadership & Soft Skills
+- Communication, Teamwork, Adaptability, Problem-solving
 
-**Managerial**
-General Management: Scrum, Agile, Kanban
+## Management
+- Scrum, Agile, Kanban
 
-**Technologies**
-
-Platforms: 
-- SAP Fiori
-
-Standards: 
-- Git
-
-Frameworks: 
-- Test Runners in JS
-- WebdriverIO
-
-Infrastructure: 
-- Citrix Cloud
-- Continuous Integration & Delivery tools
-
-Computer Languages: 
-- JavaScript
-- SQL
-
-Solutions: 
-- Visual Studio Code
-- Azure DevOps Server
-- Web Service / API Test Automation Tools in JS
-- DBeaver
-- Selenium
-- Jira
-
-Tools: 
-- Test Management Tools
-- Tricentis Tosca
-- Test Automation Frameworks
-- Web UI Test Automation Tools in JS
-- BDD Frameworks in JS
-- Web Service / API Testing Tools
-- VIVIDUS
+## Technologies
+- **Platforms**: SAP Fiori, Amazon Web Services
+- **Standards**: Git
+- **Frameworks**: WebdriverIO, Test Runners in JS
+- **Languages**: JavaScript, SQL
+- **Tools**: Azure DevOps Server, Selenium, Jira, Tricentis Tosca, DBeaver
 
 Platform: 
 - Amazon Web Services
