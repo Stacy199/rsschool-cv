@@ -31,7 +31,7 @@ Software Testing Engineer with more then 4 years experience
 •	**Tricentis:** Tricentis Tosca Fundamentals − Automating web application testing (AS1), 2023
 
 ## SKILLS
-## Engineering Practices
+### Engineering Practices
 - DWH fundamentals
 - Static Code Analysis
 - Test Strategy
@@ -39,30 +39,27 @@ Software Testing Engineer with more then 4 years experience
 - Requirements Analysis
 - Estimation and Work Planning
 
-## Technical Skills
+### Technical Skills
 - **Testing**: Functional Testing, Automated Testing in JS, Regression Testing, Exploratory Testing
 - **Test Design**: Test Strategy Development, Test Plan Development, Test Cases Development, Risk-Based Testing
 - **Automation**: Test Automation Framework Architecture in JS, Testing Automation Basics
 
-## Leadership & Soft Skills
+### Leadership & Soft Skills
 - Communication, Teamwork, Adaptability, Problem-solving
 
-## Management
+### Management
 - Scrum, Agile, Kanban
 
-## Technologies
+### Technologies
 - **Platforms**: SAP Fiori, Amazon Web Services
 - **Standards**: Git
 - **Frameworks**: WebdriverIO, Test Runners in JS
 - **Languages**: JavaScript, SQL
 - **Tools**: Azure DevOps Server, Selenium, Jira, Tricentis Tosca, DBeaver
 
-Platform: 
-- Amazon Web Services
-
-**English** 
-
-B2
+### Languages 
+- **English**: B2
+- **German**: A1
 
 ## WORK EXPERIENCE
 ### Jan-2024 - Oct-2024 - EPAM Systems
