@@ -87,7 +87,7 @@ Platform:
 B2
 
 ## WORK EXPERIENCE
-Jan-2024 - Oct-2024 - EPAM Systems, https://www.epam.com/
+### Jan-2024 - Oct-2024 - EPAM Systems, https://www.epam.com/
 
 Project Roles: Tester
 
@@ -110,11 +110,10 @@ Responsibilities:
 •	Team
 •	Testing team: 3 testes, 9 SAP Consultants
 
-May-2023 - Jan-2024 - EPAM Systems, https://www.epam.com/
+### May-2023 - Jan-2024 - EPAM Systems, https://www.epam.com/
 Project Roles: Tester
 Client: adidas
-Client Description: Retail & Distribution
-EPAM Project Description: TRANS4RM Data Warehouse Stream
+
 Responsibilities: 
 •	Back-end testing of BW system (structure comparison and test data verification for a certain test period
 •	Front-end testing of a specific report in SAC system (comparison of reports in SAC and BW systems, structure and data verification for a certain test period, verification the availability of principal SAC functions for the specified reports (hierarchy, graphs and diagrams, filtering, notifications, export, etc.)
@@ -125,12 +124,11 @@ Responsibilities:
 •	Team
 •	60+ Team Members including Solution Architects, BAs, SAP BW and SAP SAC Developers, QAs, Designers
 
-Oct-2020 - Apr-2023 - EPAM Systems, https://www.epam.com/
-Project Roles: Tester
-Client: HAVI Inc
-Client Description: Retail & Distribution
-EPAM Project Description: HAVI NextGen development
-Responsibilities: 
+### Oct-2020 - Apr-2023 - EPAM Systems, https://www.epam.com/
+**Project Roles:** Tester
+**Client:** HAVI Inc
+
+**Responsibilities:** 
 •	made  Reqiurements analysis
 •	created Test-Cases
 •	run Test-cases
@@ -156,22 +154,10 @@ Responsibilities:
 •	1 Business Analyst - for both teams
 •	1 Project Master - for both teams
 
-Jul-2020 - Oct-2020 - EPAM Systems, https://www.epam.com/
-Project Roles: Tester
-Client: OrthoBullets
-Client Description: Software & Hi-Tech
-EPAM Project Description: Orthobullets is an educational resource for orthopaedic surgeons designed to improve through the communal efforts of those who use it as a learning resource
-Services provided
-- UX design
-- Web and mobile development
-- Quality assurance
-- Requirements development
-Major technologies used
-- .NET
-- MS SQL
-- Xamarin
-- AWS cloud
-Responsibilities: 
+### Jul-2020 - Oct-2020 - EPAM Systems, https://www.epam.com/
+**Project Roles:** Tester
+**Client:** OrthoBullets
+**Responsibilities:** 
 •	1) Manual Functional Testing
 •	2) Re-testing
 •	3) Regression
