@@ -26,36 +26,34 @@ Software Testing Engineer with more then 4 years experience
 5. I'm responsible person with positive attitude to work, striving for self-development, have good communication skills and problem solving skills
 
 ## CERTIFICATES
-•	EPAM: AI Literacy Program, 2024
+•	**EPAM:** AI Literacy Program, 2024
 
-•	Tricentis: Tricentis Tosca Fundamentals − Automating web application testing (AS1), 2023
+•	**Tricentis:** Tricentis Tosca Fundamentals − Automating web application testing (AS1), 2023
 
 ## SKILLS
 **Engineering Practices**
-•	Data & Analytics: DWH fundamentals
-•	Advanced Technology: Static Code Analysis, Test strategy, Version Control Principles, Requirements Analysis, Estimation and Work 
+DWH fundamentals, Static Code Analysis, Test strategy, Version Control Principles, Requirements Analysis, Estimation and Work 
 
 **Planning, Writing Technical Documentation**
-•	Quality Engineering: Test Results Analysis and Reporting, Testing in SAP, Testing in Mobile, Automated Testing in JS, Functional Testing, Test Automation Framework Architecture in JS, Testing Automation Basics, Domain/function testing, Test Design Techniques, Risk Based Testing, Test Plan Development, Regression testing, Test Automation Development in JS ecosystem, Testing Fundamentals, Component / Integration Testing, Requirements Analysis and Testing, Test Cases Development, Exploratory testing, Defect Management, Test Strategy Development, Test Estimations, GUI Testing
+Test Results Analysis and Reporting, Testing in SAP, Testing in Mobile, Automated Testing in JS, Functional Testing, Test Automation Framework Architecture in JS, Testing Automation Basics, Domain/function testing, Test Design Techniques, Risk Based Testing, Test Plan Development, Regression testing, Test Automation Development in JS ecosystem, Testing Fundamentals, Component / Integration Testing, Requirements Analysis and Testing, Test Cases Development, Exploratory testing, Defect Management, Test Strategy Development, Test Estimations, GUI Testing
 
 **Leadership & Soft Skills**
-•	Communication: Communication, Conflict management
-•	Teamwork and Collaboration: Teamwork and Collaboration
-•	Growth Mindset: Adaptability
-•	Ownership: Self-Management, Problem-solving
+Communication, Conflict management, Teamwork and Collaboration, Adaptability, Self-Management, Problem-solving
 
 **Managerial**
-•	General Management: Scrum, Agile, Kanban
+General Management: Scrum, Agile, Kanban
 
 **Technologies**
-•	Platforms: SAP Fiori
-•	Standard: Git
-•	Framework: Test Runners in JS, WebdriverIO
-•	Infrastructure: Citrix Cloud, Continuous Integration & Delivery tools
-•	Computer Language: JavaScript, SQL
-•	Solution: Visual Studio Code, Azure DevOps Server, Web Service / API Test Automation Tools in JS, Microsoft Excel, DBeaver, Selenium, Jira
-•	Tools: Test Management Tools, Tricentis Tosca, Test Automation Frameworks, Web UI Test Automation Tools in JS, BDD Frameworks in JS, Web Service / API Testing Tools, VIVIDUS
-•	Platform: Amazon Web Services
+Platforms: SAP Fiori
+
+Standard: Git
+
+Framework: Test Runners in JS, WebdriverIO
+Infrastructure: Citrix Cloud, Continuous Integration & Delivery tools
+Computer Language: JavaScript, SQL
+Solution: Visual Studio Code, Azure DevOps Server, Web Service / API Test Automation Tools in JS, Microsoft Excel, DBeaver, Selenium, Jira
+Tools: Test Management Tools, Tricentis Tosca, Test Automation Frameworks, Web UI Test Automation Tools in JS, BDD Frameworks in JS, Web Service / API Testing Tools, VIVIDUS
+Platform: Amazon Web Services
 
 **English** 
 B2
