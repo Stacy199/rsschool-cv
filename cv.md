@@ -61,6 +61,7 @@ Software Testing Engineer with more then 4 years experience
 - **English**: B2
 - **German**: A1
 
+
 ## WORK EXPERIENCE
 ### Jan-2024 - Oct-2024 - EPAM Systems
 
