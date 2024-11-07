@@ -1,0 +1,14 @@
+body{
+   background-color: rgb(220, 196, 244); 
+}
+h2{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    border: 2px solid DodgerBlue; /* Добавление границы */
+    padding: 10px; /* Внутренние отступы */
+    margin: 10px 0; /* Отступы сверху и снизу */
+    background-color: rgba(255, 255, 255, 0.544); /* Цвет фона для параграфа */
+
+ }
