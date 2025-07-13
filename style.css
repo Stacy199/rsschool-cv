@@ -38,6 +38,7 @@ h2 {
 }
 p {
     border: 2px solid rgb(234, 237, 241);
+    border-radius: 20px;
     padding: 10px;
     margin: 10px 0;
     background-color: rgba(255, 255, 255, 0.544);
@@ -75,6 +76,43 @@ p {
     margin-top: 10px;
     text-align: center;
     justify-content:center;
+}
+.skills_section{
+    border: 2px solid rgb(234, 237, 241);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.544);  
+}
+.code-example {
+    border: 2px solid rgb(234, 237, 241);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.544);
+}
+.projects_container{
+    border: 2px solid rgb(234, 237, 241);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.544);
+    display: flex;
+    justify-content: center;
+}
+.proj_image{
+    width: 500px;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+.contacts-li{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 15px;
+    size: 20px;
 }
 .footer-container{
     max-width: 1440px;
