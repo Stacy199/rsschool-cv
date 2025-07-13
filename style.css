@@ -135,3 +135,7 @@ p {
     font-size: 40px;
     border-radius: 10px;
   }
+
+  .menu-li a:hover {
+    color: #5dc4d2; /* Цвет текста при наведении */
+}
